@@ -1,0 +1,23 @@
+{
+  "name": "tea-project",
+  "version": "1.0.0",
+  "description": "A sample project for tea.xyz",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "tea",
+    "xyz",
+    "sample"
+  ],
+  "author": "Ripki Nurdiansyah",
+  "license": "MIT",
+  "dependencies": {
+    "tea-package-builder": "^1.0.0" // Gantilah dengan dependensi yang sesuai
+  },
+  "devDependencies": {
+    "jest": "^27.0.0" // Gantilah dengan versi yang sesuai
+  }
+}
